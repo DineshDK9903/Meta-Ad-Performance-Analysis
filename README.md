@@ -15,11 +15,14 @@ Fields: Campaign Name, Ad Set, Ad Name, Impressions, Clicks, CTR, Cost per Click
 Objective: To uncover patterns and KPIs that explain campaign success or underperformance and help optimize future ad spend.
 
 🛠️ Tools & Technologies
-Category	Tools / Technologies
-Programming & Analysis	Python (Pandas, NumPy, Matplotlib, Seaborn)
-Visualization	Power BI
-Presentation	Gamma
-Environment	Jupyter Notebook / VS Code
+Category	- Tools / Technologies
+
+Programming & Analysis - Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+Visualization	- Power BI
+
+Environment	- Jupyter Notebook / VS Code
+
 🪜 Project Steps
 1. Data Loading (Python)
 
